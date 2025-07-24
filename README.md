@@ -1,5 +1,5 @@
 # Vue3-event
-
+# 要全部取消注释 // ElMessage.success('添加成功')
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
